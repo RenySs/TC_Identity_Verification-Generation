@@ -1,0 +1,11 @@
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\bin\Debug\TcKimlikApp.exe.config
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\bin\Debug\TcKimlikApp.exe
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\bin\Debug\TcKimlikApp.pdb
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\obj\Debug\TcKimlikApp.csproj.AssemblyReference.cache
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\obj\Debug\TcKimlikApp.csproj.CoreCompileInputs.cache
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\obj\Debug\TcKimlikApp.exe
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\obj\Debug\TcKimlikApp.pdb
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\bin\Debug\TcKimlikApp.exe.manifest
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\bin\Debug\TcKimlikApp.application
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\obj\Debug\TcKimlikApp.exe.manifest
+C:\Users\RENYS\source\repos\TcKimlikApp\TcKimlikApp\obj\Debug\TcKimlikApp.application
